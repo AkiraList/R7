@@ -13,7 +13,7 @@
 
 -  **Step Five:** Install the packages in package.json with `npm i`;
 
--  **Step Six:** Create a bot application and copy its token and paste into `example-config.json` and rename it to `config.json` as well as modifying other settings to your liking ***EXCEPT*** Interval. This is for your and discords api protection. (5-10 minute waits is worth it in the long run... trust me.)
+-  **Step Six:** Create a bot application and copy its token and paste into `example-config.json` and rename it to `config.json` as well as modifying other settings to your liking ***EXCEPT*** Interval. This is for your and discords api protection. (30 minute waits are worth it in the long run... trust me.)
 
 -  **Step Seven:** Make sure you set your bot to **PRIVATE** in the Discord Developer bot settings and enable both intent swithches (Just for the `members` command to show correctly);
 ![Private](./assets/PRIVATE.png)
