@@ -1,6 +1,6 @@
 {
     "token": "",
-    "ownerID": "",
+    "ownerID": [""],
     "prefix":"!!",
     "Interval":	30,
     "Credits_To": "MrBuzzYT"																																																					
