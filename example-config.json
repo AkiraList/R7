@@ -3,5 +3,6 @@
     "ownerID": [""],
     "prefix":"!!",
     "Interval":	30,
+    "db": "MONGODB",
     "Credits_To": "MrBuzzYT"																																																					
 }
